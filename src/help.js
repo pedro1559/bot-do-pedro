@@ -272,6 +272,29 @@ Meu Zip zop kkkkk http://wa.me/5512996299061
   ➡ ${prefix}covid
 
 
+    ${prefix}openg
+    ${prefix}closegc
+    ${prefix}promote
+    ${prefix}demote
+    ${prefix}tagall
+    ${prefix}tagall2
+    ${prefix}tagall3
+    ${prefix}tagall4
+    ${prefix}tagall5
+    ${prefix}add
+    ${prefix}kick
+    ${prefix}listadmins
+    ${prefix}linkgroup
+    ${prefix}leave
+    ${prefix}welcome
+    ${prefix}nsfw
+    ${prefix}leveling
+    ${prefix}level
+    ${prefix}delete
+    ${prefix}simih
+    ${prefix}ownergroup
+
+
           
 `
 }
