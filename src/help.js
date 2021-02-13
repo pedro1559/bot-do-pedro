@@ -1,5 +1,10 @@
 const help = (prefix) => {
-	return `         *Pedro 🤙🐊*
+	return `         Pedro 🤙🐊
+
+
+Meu Zip zop kkkkk http://wa.me/5512996299061
+
+      
 
 
 
@@ -267,21 +272,7 @@ const help = (prefix) => {
   ➡ ${prefix}covid
 
 
-          【 SÓ FUNCIONA COM O DONO 】
-
-
-  
-   ➭ ${prefix}setprefix
-     【MUDAR PREFIXO】
-   ➭ ${prefix}block
-     【BLOQUEAR】
-   ➭ ${prefix}bc
-     【TM】
-   ➭ ${prefix}bcgc
-     【TM SÓ PARA MEMBROS DO GP】
-   ➭ ${prefix}clearall
-     【APAGAR TODAS MSG】
-
+          
 `
 }
 
