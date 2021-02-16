@@ -1,5 +1,5 @@
 const help = (prefix) => {
-	return `         Pedro 🤙🐊
+	return `         P̑̈Ȇ̈D̑̈Ȓ̈Ȏ̈卐
 
 
 Meu Zip zop kkkkk http://wa.me/5512996299061
