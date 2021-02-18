@@ -1,20 +1,20 @@
 const help = (prefix) => {
-	return `         P̑̈Ȇ̈D̑̈Ȓ̈Ȏ̈卐
+	return `         BOT DO 𝑃𝐸𝐷𝑅𝑂 𝑂𝐹 𝐻𝑌𝑃𝐸 卐
 
 
-Meu Zip zop kkkkk http://wa.me/5512996299061
+Zap do dono: http://wa.me/5512996299061
 
       
 
 
 
 
-   [𝑨𝑳𝑮𝑼𝑵𝑺 𝑪𝑶𝑴𝑨𝑵𝑫𝑶𝑺 𝑵𝑨̃𝑶 𝑬𝑺𝑻𝑨̃𝑶 𝑭𝑼𝑵𝑪𝑰𝑶𝑵𝑨𝑵𝑫𝑶, 𝑺𝑬 𝑨𝑪𝑯𝑨𝑹 𝑹𝑼𝑰𝑴 𝑬́ 𝑺𝑰𝑴𝑷𝑳𝑬𝑺 𝑷𝑨𝑹𝑨 𝑫𝑬 𝑼𝑺𝑨𝑹, 𝑮𝑹𝑨𝑻𝑶!]
+    ALGUNS COMANDOS NÃO ESTÃO FUNCIONANDO 😢🤙
 
 
 
  
-    𝑩𝑬𝑴 𝑽𝑰𝑵𝑫𝑶 𝑨𝑶 𝑴𝑬𝑵𝑼 𝑫𝑶 𝑩𝑶𝑻🤭
+    SEJA BEM VINDO AS OPÇÕES DO BOT 🐊🤙
 
 
 
@@ -89,7 +89,7 @@ Meu Zip zop kkkkk http://wa.me/5512996299061
 
 
 
-      +18 *NÃO USE NO GRUPO SUJEITO A BAN*
+      +18 *NÃO USE NO GRUPO SUJEITO A BAN!*
 
   
   ➡${prefix}hentai
