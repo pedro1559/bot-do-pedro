@@ -1,8 +1,8 @@
 const help = (prefix) => {
-	return `         BOT DO 𝑃𝐸𝐷𝑅𝑂 𝑂𝐹 𝐻𝑌𝑃𝐸 卐
+	return `         𝐽𝑈𝑆𝑇𝐼𝐶𝐸𝐼𝑅𝑂 𝐷𝐴 𝑊𝐸𝐵 卐
 
 
-Zap do dono: http://wa.me/5512996299061
+Wths do dono: http://wa.me/5512996299061
 
       
 
