@@ -5,9 +5,9 @@ const help = (prefix) => {
  <══════════════════════>
 
 __█████████  ● ᏴϴͲ●ᎷᎬΝႮ●         
-__█▄█████▄█   *DONO*    : CAUSS
+__█▄█████▄█   *DONO*    : 𖥨ํ∘̥⃟⸽⃟𝑃𝐸𝐷𝑅𝑂 𝑶𝑭 𝑯𝒀𝑷𝑬࿘
 __█▼▼▼▼▼█ 
-_██ᏴϴͲ Ꮩ1.0██▌ 
+_██ᏴϴͲ Ꮩ1.2██▌ 
 __█▲▲▲▲▲█ 
 __█████████ 
 ____██_____██
@@ -16,7 +16,7 @@ ____██_____██
 
 🧐 *informações*
   🐊 Prefix: 「  ${prefix}  」
-  🐊 Criador : CAUSS (base toin) 
+  🐊 Criador : PEDRO
   🐊 Canal do criador: https://youtube.com/channel/UCpB3qh2Sp3K23s9a2Q-Gf-g
   🐊 *Parcerias*: ${prefix}parceria
 🧐 *SOBRE*
@@ -141,15 +141,7 @@ ____██_____██
   ├─ 🐊 ${prefix}infocuaca
   ├─ 🐊 ${prefix}infogempa
   ├─ 🐊 ${prefix}jadwaltvnow
-  └─ 🐊 ${prefix}covid
-🧐 *COMANDOS DO CAUSS*
-  │
-  ├─ 🐊 ${prefix}setprefix
-  ├─ 🐊 ${prefix}block
-  ├─ 🐊 ${prefix}bc
-  ├─ 🐊 ${prefix}bcgc
-  ├─ 🐊 ${prefix}clone
-  └─ 🐊 ${prefix}clearall
+  └─ 🐊 ${prefix}covidprefix}clearall
 🧐 *Não faço ideia da categoria desses*
   │
   ├─ 🐊 ${prefix}send
